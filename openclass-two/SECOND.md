@@ -38,6 +38,9 @@ Sudah dijelaskan bahwa pada elemen HTML terdapat sebuah tag pembuka dan juga tag
 ### Atribut Pada Element HTML
 Dalam membuat elemen HTML, ada satu hal yang dapat dilakukan, yaitu memberi atribut. Atribut dapat memberi informasi-informasi tambahan untuk elemen HTML. Informasi ini tidak akan tampil dalam halaman web, tetapi ia dapat menentukan perilaku elemen biasanya.
 
+![atribut](./img/atribut_html.png)
+> Pada gambar di atas, kita memiliki atribut class. Secara singkat, atribut ini merupakan sebuah nama identitas yang digunakan untuk menargetkan elemen dengan kode styling. Untuk pembahasan styling akan dicakup setelah HTML. Selain atribut class juga ada atribut id dan juga src dan masih banyak lagi.
+
 ### APA ITU CSS?
 > CSS sendiri adalah singkatan dari Cascading Style Sheets, ini adalah sebuah komponen untuk membuat website kita lebih terstruktur dan seragam.
 ---
