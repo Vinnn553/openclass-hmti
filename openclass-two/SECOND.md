@@ -30,7 +30,13 @@ Jika kalian perhatikan didalam kerangka HTML ada beberapa tag yang tersedia. Tag
 
 ### Mari kita pelajari element dari HMTL
 Sudah dijelaskan bahwa pada elemen HTML terdapat sebuah tag pembuka dan juga tag penutup.
-![element](img/element%paragraf.png)
+
+**Kita ambil contoh menggunakan tag ```<p>``` atau paragraf.**
+![element](./img/element_paragraf.png)
+> Jika kalian perhatikan gambar diatas tag pembuka ditandai dengan huruf p dan diberikan kurung siku <> dan tag penutup ditandai dengan huruf p dan berikan kurung siku dengan garis miring didalamnya </>. Konten dari sebuah elemen adalah teks yang ada dalam elemen tersebut. Elemen adalah keseluruhan dari tag dan isi kontennya.
+
+### Atribut Pada Element HTML
+Dalam membuat elemen HTML, ada satu hal yang dapat dilakukan, yaitu memberi atribut. Atribut dapat memberi informasi-informasi tambahan untuk elemen HTML. Informasi ini tidak akan tampil dalam halaman web, tetapi ia dapat menentukan perilaku elemen biasanya.
 
 ### APA ITU CSS?
 > CSS sendiri adalah singkatan dari Cascading Style Sheets, ini adalah sebuah komponen untuk membuat website kita lebih terstruktur dan seragam.
